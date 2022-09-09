@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EOSdata.Dto
 {
-    internal class Categoria
+     public class Categoria
     {
         public int CodigoCategoria { get; set; }
         public string Nome { get; set; }

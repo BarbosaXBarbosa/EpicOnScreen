@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EOSdata.Dto
 {
-    internal class Fotos
+    public class Fotos
     {
         public int CodigoFotos { get; set; }
         public bool Editada { get; set; }
